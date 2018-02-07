@@ -43,7 +43,7 @@ Use `JavascriptCore`
 }
 ```
 
-#### Screnshots
+#### Screenshots
 `iOS`
 </br>
 ![alt tag](https://github.com/akzuki/HPNative/blob/master/Screenshots/hpnative_ios.gif)
@@ -64,7 +64,7 @@ interface LoginView {
 }
 ```
 
-#### Screeshots
+#### Screenshots
 `Android`
 </br>
 ![alt tag](https://github.com/akzuki/HPNative/blob/master/Screenshots/hpnative_android.gif)
