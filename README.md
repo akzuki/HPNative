@@ -15,6 +15,7 @@ Personally I think only the business logic should be reused, not the UI componen
 </br>
 Imagine one day your client wants to port an existing iOS app to MacOS/Android/Web or even desktop apps. All you need to do is create the presentation logic for that specific platform and connect it to shared business logic through a bridge. And you're ready to go. (It's not that easy as it sounds but you understand what I mean ;) )
 </br>
+
 - Finally, this is just a personal project. There are many problems that I haven't addressed here. And there's still lots of room for improvement too. Any comments/contributions are extremely appreciated. :]
 
 
